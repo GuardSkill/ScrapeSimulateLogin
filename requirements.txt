@@ -1,5 +1,5 @@
 opencv_python==3.4.0.14
 PyExecJS==1.5.1
-Scrapy==1.7.3
+Scrapy==1.8.1
 requests==2.18.4
 pycrypto==2.6.1
